@@ -2,5 +2,1354 @@
   "github": {
     "silent": true
   },
-  "redirects": [{ "source": "/", "destination": "https://thinkartfully.com" }]
+  "redirects": [
+    {
+      "source": "/research-pitching/",
+      "destination": "https://thinkartfully.com/what-we-do"
+    },
+    {
+      "source": "/everything-we-do/",
+      "destination": "https://thinkartfully.com/what-we-do"
+    },
+    {
+      "source": "/visualising/",
+      "destination": "https://thinkartfully.com/services/visualising"
+    },
+    {
+      "source": "/scribing/",
+      "destination": "https://thinkartfully.com/services/scribing"
+    },
+    {
+      "source": "/animatics-success/",
+      "destination": "https://thinkartfully.com/services/animatics"
+    },
+    {
+      "source": "/news-insights/",
+      "destination": "https://thinkartfully.com/insights"
+    },
+    {
+      "source": "/contact/",
+      "destination": "https://thinkartfully.com/contact"
+    },
+    {
+      "source": "/portfolio/you-see-more-when-you-dont-fly-eurostar/",
+      "destination": "https://thinkartfully.com/case-studies/you-see-more-when-you-dont-fly-eurostar"
+    },
+    {
+      "source": "/case-study/yoomoo/",
+      "destination": "https://thinkartfully.com/case-studies/yoomoo"
+    },
+    {
+      "source": "/portfolio/with-argos-youre-good-to-go/",
+      "destination": "https://thinkartfully.com/case-studies/with-argos-youre-good-to-go"
+    },
+    {
+      "source": "/portfolio/winning-mars-bar/",
+      "destination": "https://thinkartfully.com/case-studies/winning-mars-bar"
+    },
+    {
+      "source": "/wimbledon/",
+      "destination": "https://thinkartfully.com/case-studies/wimbledon"
+    },
+    {
+      "source": "/portfolio/willem-dafoe-bt-mobile/",
+      "destination": "https://thinkartfully.com/case-studies/willem-dafoe-bt-mobile"
+    },
+    {
+      "source": "/whisky-in-the-jar/",
+      "destination": "https://thinkartfully.com/case-studies/whisky-in-the-jar"
+    },
+    {
+      "source": "/where-it-all-began/",
+      "destination": "https://thinkartfully.com/case-studies/where-it-all-began"
+    },
+    {
+      "source": "/whats-better-than-great-service-well-managed-great-service/",
+      "destination": "https://thinkartfully.com/case-studies/whats-better-than-great-service-well-managed-great-service"
+    },
+    {
+      "source": "/portfolio/westfield-what-to-wear-this-spring-summer/",
+      "destination": "https://thinkartfully.com/case-studies/westfield-what-to-wear-this-spring-summer"
+    },
+    {
+      "source": "/portfolio/westfield-stratford-christmas-festivities/",
+      "destination": "https://thinkartfully.com/case-studies/westfield-stratford-christmas-festivities"
+    },
+    {
+      "source": "/portfolio/weetos-research-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/weetos-research-animatic"
+    },
+    {
+      "source": "/portfolio/watson-family-achieve-lazy/",
+      "destination": "https://thinkartfully.com/case-studies/watson-family-achieve-lazy"
+    },
+    {
+      "source": "/walking-in-the-air/",
+      "destination": "https://thinkartfully.com/case-studies/walking-in-the-air"
+    },
+    {
+      "source": "/portfolio/walkers-united/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-united"
+    },
+    {
+      "source": "/portfolio/walkers-sunbites-photomatic/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-sunbites-photomatic"
+    },
+    {
+      "source": "/portfolio/walkers-spice-girls-superfan/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-spice-girls-superfan"
+    },
+    {
+      "source": "/portfolio/walkers-sensations-carnival/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-sensations-carnival"
+    },
+    {
+      "source": "/portfolio/walkers-innovation-department-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-innovation-department-animatic"
+    },
+    {
+      "source": "/portfolio/walkers-crispin-or-crispout/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-crispin-or-crispout"
+    },
+    {
+      "source": "/portfolio/walkers-choose-lose/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-choose-lose"
+    },
+    {
+      "source": "/portfolio/walkers-bugles-hands-off/",
+      "destination": "https://thinkartfully.com/case-studies/walkers-bugles-hands-off"
+    },
+    {
+      "source": "/portfolio/vodafone-on-ice/",
+      "destination": "https://thinkartfully.com/case-studies/vodafone-on-ice"
+    },
+    {
+      "source": "/portfolio/visualising-unmissable-moments/",
+      "destination": "https://thinkartfully.com/case-studies/visualising-unmissable-moments"
+    },
+    {
+      "source": "/portfolio/visualising-david-beckham/",
+      "destination": "https://thinkartfully.com/case-studies/visualising-david-beckham"
+    },
+    {
+      "source": "/portfolio/visualising-a-good-call-for-fosters/",
+      "destination": "https://thinkartfully.com/case-studies/visualising-a-good-call-for-fosters"
+    },
+    {
+      "source": "/portfolio/visa-2018-fifa-world-cup-russia/",
+      "destination": "https://thinkartfully.com/case-studies/visa-2018-fifa-world-cup-russia"
+    },
+    {
+      "source": "/portfolio/vauxhall-life-ready/",
+      "destination": "https://thinkartfully.com/case-studies/vauxhall-life-ready"
+    },
+    {
+      "source": "/portfolio/utopia-experiments/",
+      "destination": "https://thinkartfully.com/case-studies/utopia-experiments"
+    },
+    {
+      "source": "/usb-style-guide/",
+      "destination": "https://thinkartfully.com/case-studies/usb-style-guide"
+    },
+    {
+      "source": "/case-study/university-of-greenwich-conference-scribe/",
+      "destination": "https://thinkartfully.com/case-studies/university-of-greenwich-conference-scribe"
+    },
+    {
+      "source": "/category/uncategorised/",
+      "destination": "https://thinkartfully.com/case-studies/uncategorised"
+    },
+    {
+      "source": "/portfolio/tropicana-super-glass/",
+      "destination": "https://thinkartfully.com/case-studies/tropicana-super-glass"
+    },
+    {
+      "source": "/portfolio/tropicana/",
+      "destination": "https://thinkartfully.com/case-studies/tropicana"
+    },
+    {
+      "source": "/portfolio/timberland-seasonal-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/timberland-seasonal-visuals"
+    },
+    {
+      "source": "/case-study/tiktok-webinar-live-digital-scribe-join-the-tiktok-revolution/",
+      "destination": "https://thinkartfully.com/case-studies/tiktok-webinar-live-digital-scribe-join-the-tiktok-revolution"
+    },
+    {
+      "source": "/portfolio/the-tunnel-of-light-nhs/",
+      "destination": "https://thinkartfully.com/case-studies/the-tunnel-of-light-nhs"
+    },
+    {
+      "source": "/portfolio/the-tail-of-the-curious-mouse/",
+      "destination": "https://thinkartfully.com/case-studies/the-tail-of-the-curious-mouse"
+    },
+    {
+      "source": "/the-procurement-roster-issue/",
+      "destination": "https://thinkartfully.com/case-studies/the-procurement-roster-issue"
+    },
+    {
+      "source": "/portfolio/the-island-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/the-island-visuals"
+    },
+    {
+      "source": "/portfolio/the-history-of-soy-lkk/",
+      "destination": "https://thinkartfully.com/case-studies/the-history-of-soy-lkk"
+    },
+    {
+      "source": "/the-great-career-creator/",
+      "destination": "https://thinkartfully.com/case-studies/the-great-career-creator"
+    },
+    {
+      "source": "/portfolio/the-first-flight-with-heathrow/",
+      "destination": "https://thinkartfully.com/case-studies/the-first-flight-with-heathrow"
+    },
+    {
+      "source": "/case-study/the-design-kids-tdk-tuesdays-digital-scribe/",
+      "destination": "https://thinkartfully.com/case-studies/the-design-kids-tdk-tuesdays-digital-scribe"
+    },
+    {
+      "source": "/portfolio/tetley-tea-time-redbush/",
+      "destination": "https://thinkartfully.com/case-studies/tetley-tea-time-redbush"
+    },
+    {
+      "source": "/portfolio/tetley-tea-mixed-media-frames/",
+      "destination": "https://thinkartfully.com/case-studies/tetley-tea-mixed-media-frames"
+    },
+    {
+      "source": "/portfolio/tena-lights-oooops-moments/",
+      "destination": "https://thinkartfully.com/case-studies/tena-lights-oooops-moments"
+    },
+    {
+      "source": "/portfolio/tear-n-share-with-walkers/",
+      "destination": "https://thinkartfully.com/case-studies/tear-n-share-with-walkers"
+    },
+    {
+      "source": "/tbms-2019-christmas-roundup/",
+      "destination": "https://thinkartfully.com/case-studies/tbms-2019-christmas-roundup"
+    },
+    {
+      "source": "/case-study/taboola-iamnotsorry-happy-hour/",
+      "destination": "https://thinkartfully.com/case-studies/taboola-iamnotsorry-happy-hour"
+    },
+    {
+      "source": "/summer-holiday-animation/",
+      "destination": "https://thinkartfully.com/case-studies/summer-holiday-animation"
+    },
+    {
+      "source": "/portfolio/subway-star-wars-canteen/",
+      "destination": "https://thinkartfully.com/case-studies/subway-star-wars-canteen"
+    },
+    {
+      "source": "/portfolio/strategy-workshop/",
+      "destination": "https://thinkartfully.com/case-studies/strategy-workshop"
+    },
+    {
+      "source": "/portfolio/stormflower-storyboards/",
+      "destination": "https://thinkartfully.com/case-studies/stormflower-storyboards"
+    },
+    {
+      "source": "/start-small-top-take-aways-from-a-one-week-work-placement/",
+      "destination": "https://thinkartfully.com/case-studies/start-small-top-take-aways-from-a-one-week-work-placement"
+    },
+    {
+      "source": "/portfolio/stand-up-to-cancer/",
+      "destination": "https://thinkartfully.com/case-studies/stand-up-to-cancer"
+    },
+    {
+      "source": "/sporty-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/sporty-visuals"
+    },
+    {
+      "source": "/portfolio/snickers-mr-bean-3d/",
+      "destination": "https://thinkartfully.com/case-studies/snickers-mr-bean-3d"
+    },
+    {
+      "source": "/portfolio/smokefree-toxic-cycle/",
+      "destination": "https://thinkartfully.com/case-studies/smokefree-toxic-cycle"
+    },
+    {
+      "source": "/portfolio/smart-flies-aer-lingus/",
+      "destination": "https://thinkartfully.com/case-studies/smart-flies-aer-lingus"
+    },
+    {
+      "source": "/portfolio/sma-toddler-milk/",
+      "destination": "https://thinkartfully.com/case-studies/sma-toddler-milk"
+    },
+    {
+      "source": "/portfolio/sky-go-movies-express/",
+      "destination": "https://thinkartfully.com/case-studies/sky-go-movies-express"
+    },
+    {
+      "source": "/portfolio/size-matters-tropicana/",
+      "destination": "https://thinkartfully.com/case-studies/size-matters-tropicana"
+    },
+    {
+      "source": "/portfolio/singing-in-the-rain-hunter-boots/",
+      "destination": "https://thinkartfully.com/case-studies/singing-in-the-rain-hunter-boots"
+    },
+    {
+      "source": "/portfolio/sheba-resistance-is-futile/",
+      "destination": "https://thinkartfully.com/case-studies/sheba-resistance-is-futile"
+    },
+    {
+      "source": "/case-study/sheba-follow-passion/",
+      "destination": "https://thinkartfully.com/case-studies/sheba-follow-your-passion"
+    },
+    {
+      "source": "/portfolio/sex-education-season-2-january-2020/",
+      "destination": "https://thinkartfully.com/case-studies/sex-education-season-2-january-2020"
+    },
+    {
+      "source": "/portfolio/seize-holiday-virgin/",
+      "destination": "https://thinkartfully.com/case-studies/seize-holiday-virgin"
+    },
+    {
+      "source": "/searching-for-gold/",
+      "destination": "https://thinkartfully.com/case-studies/searching-for-gold"
+    },
+    {
+      "source": "/sci-fi-advertising/",
+      "destination": "https://thinkartfully.com/case-studies/sci-fi-advertising"
+    },
+    {
+      "source": "/portfolio/schweppes-worlds-smallest-gin-bar//case-studies/schweppes-worlds-smallest-gin-bar",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/scamp-workshop-with-ycc/",
+      "destination": "https://thinkartfully.com/case-studies/scamp-workshop-with-ycc"
+    },
+    {
+      "source": "/scamp-workshop-tips-tricks/",
+      "destination": "https://thinkartfully.com/case-studies/scamp-workshop-tips-tricks"
+    },
+    {
+      "source": "/say-hello-to-our-new-mice/",
+      "destination": "https://thinkartfully.com/case-studies/say-hello-to-our-new-mice"
+    },
+    {
+      "source": "/portfolio/saturdays-impulse-posters/",
+      "destination": "https://thinkartfully.com/case-studies/saturdays-impulse-posters"
+    },
+    {
+      "source": "/portfolio/santander-high-finish-frames/",
+      "destination": "https://thinkartfully.com/case-studies/santander-high-finish-frames"
+    },
+    {
+      "source": "/portfolio/samsung-hope-relay-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/samsung-hope-relay-visuals"
+    },
+    {
+      "source": "/portfolio/sainsburys-the-clean-vic/",
+      "destination": "https://thinkartfully.com/case-studies/sainsburys-the-clean-vic"
+    },
+    {
+      "source": "/portfolio/sainsburys-meat-free-butchers-pop-up/",
+      "destination": "https://thinkartfully.com/case-studies/sainsburys-meat-free-butchers-pop-up"
+    },
+    {
+      "source": "/portfolio/sainsburys-fashion-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/sainsburys-fashion-visuals"
+    },
+    {
+      "source": "/s-scamps/",
+      "destination": "https://thinkartfully.com/case-studies/s-scamps"
+    },
+    {
+      "source": "/portfolio/russian-dolls/",
+      "destination": "https://thinkartfully.com/case-studies/russian-dolls"
+    },
+    {
+      "source": "/author/rob/",
+      "destination": "https://thinkartfully.com/case-studies/rob"
+    },
+    {
+      "source": "/portfolio/rimmel-lives-london-look-cara-delevingne/",
+      "destination": "https://thinkartfully.com/case-studies/rimmel-lives-london-look-cara-delevingne"
+    },
+    {
+      "source": "/case-study/rightscon-2021-summit-human-rights-in-the-digital-age/",
+      "destination": "https://thinkartfully.com/case-studies/rightscon-2021-summit-human-rights-in-the-digital-age"
+    },
+    {
+      "source": "/portfolio/richmond-the-nations-favourite/",
+      "destination": "https://thinkartfully.com/case-studies/richmond-the-nations-favourite"
+    },
+    {
+      "source": "/revised-rate-card/",
+      "destination": "https://thinkartfully.com/case-studies/revised-rate-card"
+    },
+    {
+      "source": "/retail-experience/",
+      "destination": "https://thinkartfully.com/case-studies/retail-experience"
+    },
+    {
+      "source": "/research-autopilot-production/",
+      "destination": "https://thinkartfully.com/case-studies/research-autopilot-production"
+    },
+    {
+      "source": "/refugee-relief-night-with-apa/",
+      "destination": "https://thinkartfully.com/case-studies/refugee-relief-night-with-apa"
+    },
+    {
+      "source": "/case-study/rediscovering-nature-with-centre-parcs/",
+      "destination": "https://thinkartfully.com/case-studies/rediscovering-nature-with-centre-parcs"
+    },
+    {
+      "source": "/portfolio/real-ingredients-kettle-chips/",
+      "destination": "https://thinkartfully.com/case-studies/real-ingredients-kettle-chips"
+    },
+    {
+      "source": "/portfolio/re-inventing-the-mascot-homepride/",
+      "destination": "https://thinkartfully.com/case-studies/re-inventing-the-mascot-homepride"
+    },
+    {
+      "source": "/case-study/rcm-annual-conference-wall-scribe/",
+      "destination": "https://thinkartfully.com/case-studies/rcm-annual-conference-wall-scribe"
+    },
+    {
+      "source": "/portfolio/radox-lifes-better-with-bubbles/",
+      "destination": "https://thinkartfully.com/case-studies/radox-lifes-better-with-bubbles"
+    },
+    {
+      "source": "/portfolio/quorn-helping-the-planet-one-bite-at-a-time/",
+      "destination": "https://thinkartfully.com/case-studies/quorn-helping-the-planet-one-bite-at-a-time"
+    },
+    {
+      "source": "/portfolio/quakers-super-goodness/",
+      "destination": "https://thinkartfully.com/case-studies/quakers-super-goodness"
+    },
+    {
+      "source": "/portfolio/quakers-go-forridge/",
+      "destination": "https://thinkartfully.com/case-studies/quakers-go-forridge"
+    },
+    {
+      "source": "/proud-to-join-the-unilever-supplier-roster/",
+      "destination": "https://thinkartfully.com/case-studies/proud-to-join-the-unilever-supplier-roster"
+    },
+    {
+      "source": "/privacy-policy/",
+      "destination": "https://thinkartfully.com/case-studies/privacy-policy"
+    },
+    {
+      "source": "/category/press/",
+      "destination": "https://thinkartfully.com/case-studies/press"
+    },
+    {
+      "source": "/portfolio/premier-league-on-sky-sports/",
+      "destination": "https://thinkartfully.com/case-studies/premier-league-on-sky-sports"
+    },
+    {
+      "source": "/portfolio/predict-the-future-with-cadburys-twirl/",
+      "destination": "https://thinkartfully.com/case-studies/predict-the-future-with-cadburys-twirl"
+    },
+    {
+      "source": "/portfolio/powerade-perspective-storyboards/",
+      "destination": "https://thinkartfully.com/case-studies/powerade-perspective-storyboards"
+    },
+    {
+      "source": "/portfolio/pom-bear-the-bare-bear-snack/",
+      "destination": "https://thinkartfully.com/case-studies/pom-bear-the-bare-bear-snack"
+    },
+    {
+      "source": "/portfolio/police-drama-promotion/",
+      "destination": "https://thinkartfully.com/case-studies/police-drama-promotion"
+    },
+    {
+      "source": "/playing-card-games/",
+      "destination": "https://thinkartfully.com/case-studies/playing-card-games"
+    },
+    {
+      "source": "/portfolio/pitching-to-virgin-trains/",
+      "destination": "https://thinkartfully.com/case-studies/pitching-to-virgin-trains"
+    },
+    {
+      "source": "/pitching-dont-be-scared/",
+      "destination": "https://thinkartfully.com/case-studies/pitching-dont-be-scared"
+    },
+    {
+      "source": "/portfolio/photoreal-illustration-for-osu-onsen-experience/",
+      "destination": "https://thinkartfully.com/case-studies/photoreal-illustration-for-osu-onsen-experience"
+    },
+    {
+      "source": "/portfolio/photo-real-for-lipton-tea/",
+      "destination": "https://thinkartfully.com/case-studies/photo-real-for-lipton-tea"
+    },
+    {
+      "source": "/portfolio/philadelphia-food-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/philadelphia-food-visuals"
+    },
+    {
+      "source": "/portfolio/peroni-life-by-the-sea/",
+      "destination": "https://thinkartfully.com/case-studies/peroni-life-by-the-sea"
+    },
+    {
+      "source": "/portfolio/peroni/",
+      "destination": "https://thinkartfully.com/case-studies/peroni"
+    },
+    {
+      "source": "/portfolio/pay-day-baller-walkers-pay-packets/",
+      "destination": "https://thinkartfully.com/case-studies/pay-day-baller-walkers-pay-packets"
+    },
+    {
+      "source": "/portfolio/parrot-bay-cocktails/",
+      "destination": "https://thinkartfully.com/case-studies/parrot-bay-cocktails"
+    },
+    {
+      "source": "/author/other-admin/",
+      "destination": "https://thinkartfully.com/case-studies/other-admin"
+    },
+    {
+      "source": "/category/opinion/",
+      "destination": "https://thinkartfully.com/case-studies/opinion"
+    },
+    {
+      "source": "/portfolio/o2-rugby-world-cup/",
+      "destination": "https://thinkartfully.com/case-studies/o2-rugby-world-cup"
+    },
+    {
+      "source": "/non-verbal-communication/",
+      "destination": "https://thinkartfully.com/case-studies/non-verbal-communication"
+    },
+    {
+      "source": "/portfolio/nhs-stop-smoking/",
+      "destination": "https://thinkartfully.com/case-studies/nhs-stop-smoking"
+    },
+    {
+      "source": "/portfolio/nhs-111-tvc/",
+      "destination": "https://thinkartfully.com/case-studies/nhs-111-tvc"
+    },
+    {
+      "source": "/portfolio/nextgen-easyjet/",
+      "destination": "https://thinkartfully.com/case-studies/nextgen-easyjet"
+    },
+    {
+      "source": "/new-artists-jan16/",
+      "destination": "https://thinkartfully.com/case-studies/new-artists-jan16"
+    },
+    {
+      "source": "/new-artist-pages/",
+      "destination": "https://thinkartfully.com/case-studies/new-artist-pages"
+    },
+    {
+      "source": "/portfolio/nescafe-azera-stay-curious/",
+      "destination": "https://thinkartfully.com/case-studies/nescafe-azera-stay-curious"
+    },
+    {
+      "source": "/portfolio/mr-bean-for-snickers/",
+      "destination": "https://thinkartfully.com/case-studies/mr-bean-for-snickers"
+    },
+    {
+      "source": "/portfolio/moneysupermarket-goes-epic-with-skeletor/",
+      "destination": "https://thinkartfully.com/case-studies/moneysupermarket-goes-epic-with-skeletor"
+    },
+    {
+      "source": "/portfolio/mini-fist-pump-with-just-eat/",
+      "destination": "https://thinkartfully.com/case-studies/mini-fist-pump-with-just-eat"
+    },
+    {
+      "source": "/mike/",
+      "destination": "https://thinkartfully.com/case-studies/mike"
+    },
+    {
+      "source": "/merry-christmas-2015/",
+      "destination": "https://thinkartfully.com/case-studies/merry-christmas-2015"
+    },
+    {
+      "source": "/merry-christmas-2/",
+      "destination": "https://thinkartfully.com/case-studies/merry-christmas-2"
+    },
+    {
+      "source": "/merry-christmas/",
+      "destination": "https://thinkartfully.com/case-studies/merry-christmas"
+    },
+    {
+      "source": "/portfolio/menswear-fashion-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/menswear-fashion-visuals"
+    },
+    {
+      "source": "/portfolio/martini-royale/",
+      "destination": "https://thinkartfully.com/case-studies/martini-royale"
+    },
+    {
+      "source": "/portfolio/marie-curie-nurses-garden-of-light/",
+      "destination": "https://thinkartfully.com/case-studies/marie-curie-nurses-garden-of-light"
+    },
+    {
+      "source": "/portfolio/magners-key-frames/",
+      "destination": "https://thinkartfully.com/case-studies/magners-key-frames"
+    },
+    {
+      "source": "/case-study/mad-fest-2019-live-digital-scribes-live-mural-2/",
+      "destination": "https://thinkartfully.com/case-studies/mad-fest-2019-live-digital-scribes-live-mural-2"
+    },
+    {
+      "source": "/portfolio/lululemon-store-design-harrods/",
+      "destination": "https://thinkartfully.com/case-studies/lululemon-store-design-harrods"
+    },
+    {
+      "source": "/portfolio/lucozade-zero-love-island/",
+      "destination": "https://thinkartfully.com/case-studies/lucozade-zero-love-island"
+    },
+    {
+      "source": "/portfolio/lucky-strike-pepsi/",
+      "destination": "https://thinkartfully.com/case-studies/lucky-strike-pepsi"
+    },
+    {
+      "source": "/portfolio/lucazade-fit-water/",
+      "destination": "https://thinkartfully.com/case-studies/lucazade-fit-water"
+    },
+    {
+      "source": "/portfolio/llyods-by-your-side/",
+      "destination": "https://thinkartfully.com/case-studies/llyods-by-your-side"
+    },
+    {
+      "source": "/portfolio/lloyds-forever-forward/",
+      "destination": "https://thinkartfully.com/case-studies/lloyds-forever-forward"
+    },
+    {
+      "source": "/case-study/live-digital-scribe-with-99-club-digital-festival/",
+      "destination": "https://thinkartfully.com/case-studies/live-digital-scribe-with-99-club-digital-festival"
+    },
+    {
+      "source": "/case-study/lipton-be-more-tea/",
+      "destination": "https://thinkartfully.com/case-studies/lipton-be-more-tea"
+    },
+    {
+      "source": "/lettering-is-our-thing/",
+      "destination": "https://thinkartfully.com/case-studies/lettering-is-our-thing"
+    },
+    {
+      "source": "/leicesters-easter-plops/",
+      "destination": "https://thinkartfully.com/case-studies/leicesters-easter-plops"
+    },
+    {
+      "source": "/author/leicester/",
+      "destination": "https://thinkartfully.com/case-studies/leicester"
+    },
+    {
+      "source": "/portfolio/kraken-rum-cooking-up-a-perfect-storm/",
+      "destination": "https://thinkartfully.com/case-studies/kraken-rum-cooking-up-a-perfect-storm"
+    },
+    {
+      "source": "/portfolio/kp-nuts-nut-nuts-nut/",
+      "destination": "https://thinkartfully.com/case-studies/kp-nuts-nut-nuts-nut"
+    },
+    {
+      "source": "/portfolio/kopparberg-frozen-cider/",
+      "destination": "https://thinkartfully.com/case-studies/kopparberg-frozen-cider"
+    },
+    {
+      "source": "/case-study/kings-college-hospital-engagement-workshops/",
+      "destination": "https://thinkartfully.com/case-studies/kings-college-hospital-engagement-workshops"
+    },
+    {
+      "source": "/portfolio/kinder-chocolate-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/kinder-chocolate-animatic"
+    },
+    {
+      "source": "/portfolio/kettle-chips/",
+      "destination": "https://thinkartfully.com/case-studies/kettle-chips"
+    },
+    {
+      "source": "/portfolio/just-eat-balti/",
+      "destination": "https://thinkartfully.com/case-studies/just-eat-balti"
+    },
+    {
+      "source": "/junior-artist-jacob/",
+      "destination": "https://thinkartfully.com/case-studies/junior-artist-jacob"
+    },
+    {
+      "source": "/portfolio/john-lewis-store-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/john-lewis-store-visuals"
+    },
+    {
+      "source": "/portfolio/jetpacks-mini-roasts-eblex/",
+      "destination": "https://thinkartfully.com/case-studies/jetpacks-mini-roasts-eblex"
+    },
+    {
+      "source": "/portfolio/jeremy-renner-saves-the-day-with-bt-family-sim/",
+      "destination": "https://thinkartfully.com/case-studies/jeremy-renner-saves-the-day-with-bt-family-sim"
+    },
+    {
+      "source": "/portfolio/jd-sports-always-the-leader/",
+      "destination": "https://thinkartfully.com/case-studies/jd-sports-always-the-leader"
+    },
+    {
+      "source": "/portfolio/jaguar-your-turn/",
+      "destination": "https://thinkartfully.com/case-studies/jaguar-your-turn"
+    },
+    {
+      "source": "/case-study/jagermeister-journey-surf/",
+      "destination": "https://thinkartfully.com/case-studies/jagermeister-journey-surf"
+    },
+    {
+      "source": "/its-good-to-spread-your-wings-a-bit/",
+      "destination": "https://thinkartfully.com/case-studies/its-good-to-spread-your-wings-a-bit"
+    },
+    {
+      "source": "/investing-image-library/",
+      "destination": "https://thinkartfully.com/case-studies/investing-image-library"
+    },
+    {
+      "source": "/international-womens-day-new-artists-balanceforbetter/",
+      "destination": "https://thinkartfully.com/case-studies/international-womens-day-new-artists-balanceforbetter"
+    },
+    {
+      "source": "/category/insight/",
+      "destination": "https://thinkartfully.com/case-studies/insight"
+    },
+    {
+      "source": "/portfolio/innocent-smoothies-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/innocent-smoothies-animatic"
+    },
+    {
+      "source": "/portfolio/indian-summers/",
+      "destination": "https://thinkartfully.com/case-studies/indian-summers"
+    },
+    {
+      "source": "/case-study/ikeas-pop-up-diy-restaurant/",
+      "destination": "https://thinkartfully.com/case-studies/ikeas-pop-up-diy-restaurant"
+    },
+    {
+      "source": "/portfolio/i-want-a-smart-meter-smart-energy/",
+      "destination": "https://thinkartfully.com/case-studies/i-want-a-smart-meter-smart-energy"
+    },
+    {
+      "source": "/portfolio/hula-hoops-hands-full/",
+      "destination": "https://thinkartfully.com/case-studies/hula-hoops-hands-full"
+    },
+    {
+      "source": "/how-to-get-the-most-bang-for-your-buck-creative-budgeting-tips-and-tricks/",
+      "destination": "https://thinkartfully.com/case-studies/how-to-get-the-most-bang-for-your-buck-creative-budgeting-tips-and-tricks"
+    },
+    {
+      "source": "/how-times-have-changed/",
+      "destination": "https://thinkartfully.com/case-studies/how-times-have-changed"
+    },
+    {
+      "source": "/case-study/how-does-scribing-work/",
+      "destination": "https://thinkartfully.com/case-studies/how-does-scribing-work"
+    },
+    {
+      "source": "/portfolio/hospital-series-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/hospital-series-visuals"
+    },
+    {
+      "source": "/portfolio/highways-england-go-left/",
+      "destination": "https://thinkartfully.com/case-studies/highways-england-go-left"
+    },
+    {
+      "source": "/portfolio/heroic-collision-walkers/",
+      "destination": "https://thinkartfully.com/case-studies/heroic-collision-walkers"
+    },
+    {
+      "source": "/head-of-production/",
+      "destination": "https://thinkartfully.com/case-studies/head-of-production"
+    },
+    {
+      "source": "/author/hayleywarren/",
+      "destination": "https://thinkartfully.com/case-studies/hayleywarren"
+    },
+    {
+      "source": "/author/hayley-warren/",
+      "destination": "https://thinkartfully.com/case-studies/hayley-warren"
+    },
+    {
+      "source": "/portfolio/haribo-tangfastics-frames/",
+      "destination": "https://thinkartfully.com/case-studies/haribo-tangfastics-frames"
+    },
+    {
+      "source": "/portfolio/haribo-starmix-just-too-good/",
+      "destination": "https://thinkartfully.com/case-studies/haribo-starmix-just-too-good"
+    },
+    {
+      "source": "/portfolio/happy-radox-goth/",
+      "destination": "https://thinkartfully.com/case-studies/happy-radox-goth"
+    },
+    {
+      "source": "/case-study/halolens-live-portraits-women-of-silicon-roundabout-with-bp/",
+      "destination": "https://thinkartfully.com/case-studies/halolens-live-portraits-women-of-silicon-roundabout-with-bp"
+    },
+    {
+      "source": "/portfolio/halifax-that-new-home-feeling/",
+      "destination": "https://thinkartfully.com/case-studies/halifax-that-new-home-feeling"
+    },
+    {
+      "source": "/case-study/halfords-pedal-in-the-park/",
+      "destination": "https://thinkartfully.com/case-studies/halfords-pedal-in-the-park"
+    },
+    {
+      "source": "/portfolio/haagen-dazs-obsessions-collection/",
+      "destination": "https://thinkartfully.com/case-studies/haagen-dazs-obsessions-collection"
+    },
+    {
+      "source": "/portfolio/gwr-five-and-the-jetpack/",
+      "destination": "https://thinkartfully.com/case-studies/gwr-five-and-the-jetpack"
+    },
+    {
+      "source": "/portfolio/guinness-liberty-fields/",
+      "destination": "https://thinkartfully.com/case-studies/guinness-liberty-fields"
+    },
+    {
+      "source": "/green-screen-animatics/",
+      "destination": "https://thinkartfully.com/case-studies/green-screen-animatics"
+    },
+    {
+      "source": "/got-the-go-ahead-on-a-production-shoot-wed-love-to-help/",
+      "destination": "https://thinkartfully.com/case-studies/got-the-go-ahead-on-a-production-shoot-wed-love-to-help"
+    },
+    {
+      "source": "/portfolio/gordon-behind-bars/",
+      "destination": "https://thinkartfully.com/case-studies/gordon-behind-bars"
+    },
+    {
+      "source": "/case-study/glug-summer-party-wall-scribe/",
+      "destination": "https://thinkartfully.com/case-studies/glug-summer-party-wall-scribe"
+    },
+    {
+      "source": "/case-study/glug-summer-party-digital-scribes-with-microsoft-surface/",
+      "destination": "https://thinkartfully.com/case-studies/glug-summer-party-digital-scribes-with-microsoft-surface"
+    },
+    {
+      "source": "/case-study/glug_jelly_scribe/",
+      "destination": "https://thinkartfully.com/case-studies/glug_jelly_scribe"
+    },
+    {
+      "source": "/portfolio/glamour-frames-babyliss/",
+      "destination": "https://thinkartfully.com/case-studies/glamour-frames-babyliss"
+    },
+    {
+      "source": "/get-your-balls-out/",
+      "destination": "https://thinkartfully.com/case-studies/get-your-balls-out"
+    },
+    {
+      "source": "/portfolio/game-thrones-party-concepts/",
+      "destination": "https://thinkartfully.com/case-studies/game-thrones-party-concepts"
+    },
+    {
+      "source": "/portfolio/gallo-wines-fashion-frames/",
+      "destination": "https://thinkartfully.com/case-studies/gallo-wines-fashion-frames"
+    },
+    {
+      "source": "/portfolio/fridge-raiders-get-a-taste-for-power/",
+      "destination": "https://thinkartfully.com/case-studies/fridge-raiders-get-a-taste-for-power"
+    },
+    {
+      "source": "/for-those-that-suffer-we-ride/",
+      "destination": "https://thinkartfully.com/case-studies/for-those-that-suffer-we-ride"
+    },
+    {
+      "source": "/fireflies-tour-15/",
+      "destination": "https://thinkartfully.com/case-studies/fireflies-tour-15"
+    },
+    {
+      "source": "/case-study/fireflies-bloodwise-fundraiser-sketchnoting/",
+      "destination": "https://thinkartfully.com/case-studies/fireflies-bloodwise-fundraiser-sketchnoting"
+    },
+    {
+      "source": "/portfolio/fiat-exhibition-stand/",
+      "destination": "https://thinkartfully.com/case-studies/fiat-exhibition-stand"
+    },
+    {
+      "source": "/feeling-peckish/",
+      "destination": "https://thinkartfully.com/case-studies/feeling-peckish"
+    },
+    {
+      "source": "/portfolio/fairy-non-bio-sounds-of-safety/",
+      "destination": "https://thinkartfully.com/case-studies/fairy-non-bio-sounds-of-safety"
+    },
+    {
+      "source": "/portfolio/facebook-cafe-privacy-checkup/",
+      "destination": "https://thinkartfully.com/case-studies/facebook-cafe-privacy-checkup"
+    },
+    {
+      "source": "/portfolio/facebook-art-gallery-for-dogs/",
+      "destination": "https://thinkartfully.com/case-studies/facebook-art-gallery-for-dogs"
+    },
+    {
+      "source": "/category/experience/",
+      "destination": "https://thinkartfully.com/case-studies/experience"
+    },
+    {
+      "source": "/portfolio/experian-creditexpert-key-frames/",
+      "destination": "https://thinkartfully.com/case-studies/experian-creditexpert-key-frames"
+    },
+    {
+      "source": "/portfolio/experian-chopsticks/",
+      "destination": "https://thinkartfully.com/case-studies/experian-chopsticks"
+    },
+    {
+      "source": "/portfolio/excedrin-mixed-media-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/excedrin-mixed-media-animatic"
+    },
+    {
+      "source": "/case-study/eve-sleep-a-pillows-life-animation/",
+      "destination": "https://thinkartfully.com/case-studies/eve-sleep-a-pillows-life-animation"
+    },
+    {
+      "source": "/europe-is-going-football-crazy-and-so-are-we/",
+      "destination": "https://thinkartfully.com/case-studies/europe-is-going-football-crazy-and-so-are-we"
+    },
+    {
+      "source": "/portfolio/enterprise-whatever-the-mission/",
+      "destination": "https://thinkartfully.com/case-studies/enterprise-whatever-the-mission"
+    },
+    {
+      "source": "/portfolio/enterprise-skydive/",
+      "destination": "https://thinkartfully.com/case-studies/enterprise-skydive"
+    },
+    {
+      "source": "/enough-of-the-goat-zooms-is-it-time-to-let-a-mouse-in/",
+      "destination": "https://thinkartfully.com/case-studies/enough-of-the-goat-zooms-is-it-time-to-let-a-mouse-in"
+    },
+    {
+      "source": "/portfolio/ee-recharge-tent/",
+      "destination": "https://thinkartfully.com/case-studies/ee-recharge-tent"
+    },
+    {
+      "source": "/portfolio/ee-faster-on-5g/",
+      "destination": "https://thinkartfully.com/case-studies/ee-faster-on-5g"
+    },
+    {
+      "source": "/portfolio/east-coast-colour-frames/",
+      "destination": "https://thinkartfully.com/case-studies/east-coast-colour-frames"
+    },
+    {
+      "source": "/portfolio/duvel-almost-ripe/",
+      "destination": "https://thinkartfully.com/case-studies/duvel-almost-ripe"
+    },
+    {
+      "source": "/double-gold/",
+      "destination": "https://thinkartfully.com/case-studies/double-gold"
+    },
+    {
+      "source": "/portfolio/doritos-for-the-bold/",
+      "destination": "https://thinkartfully.com/case-studies/doritos-for-the-bold"
+    },
+    {
+      "source": "/case-study/doritos/",
+      "destination": "https://thinkartfully.com/case-studies/doritos"
+    },
+    {
+      "source": "/portfolio/dolmio-spotcolourframes/",
+      "destination": "https://thinkartfully.com/case-studies/dolmio-spotcolourframes"
+    },
+    {
+      "source": "/ditch-powerpoint/",
+      "destination": "https://thinkartfully.com/case-studies/ditch-powerpoint"
+    },
+    {
+      "source": "/demystifying-the-3d-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/demystifying-the-3d-animatic"
+    },
+    {
+      "source": "/portfolio/david-beckham-selfie-stunt-with-adidas/",
+      "destination": "https://thinkartfully.com/case-studies/david-beckham-selfie-stunt-with-adidas"
+    },
+    {
+      "source": "/case-study/darts-dart-art-mashup-not-missed-digital-scribe/",
+      "destination": "https://thinkartfully.com/case-studies/darts-dart-art-mashup-not-missed-digital-scribe"
+    },
+    {
+      "source": "/portfolio/dairylea-campaign-concepts/",
+      "destination": "https://thinkartfully.com/case-studies/dairylea-campaign-concepts"
+    },
+    {
+      "source": "/portfolio/craft-the-moment-jagermeister/",
+      "destination": "https://thinkartfully.com/case-studies/craft-the-moment-jagermeister"
+    },
+    {
+      "source": "/portfolio/coral-worlds-biggest-sports-fan/",
+      "destination": "https://thinkartfully.com/case-studies/coral-worlds-biggest-sports-fan"
+    },
+    {
+      "source": "/case-study/cop26-2021-un-climate-change-conference/",
+      "destination": "https://thinkartfully.com/case-studies/cop26-2021-un-climate-change-conference"
+    },
+    {
+      "source": "/portfolio/concept-art-allsaints/",
+      "destination": "https://thinkartfully.com/case-studies/concept-art-allsaints"
+    },
+    {
+      "source": "/portfolio/comic-relief-with-tk-maxx/",
+      "destination": "https://thinkartfully.com/case-studies/comic-relief-with-tk-maxx"
+    },
+    {
+      "source": "/portfolio/comic-relief-iconic-t-shirts/",
+      "destination": "https://thinkartfully.com/case-studies/comic-relief-iconic-t-shirts"
+    },
+    {
+      "source": "/portfolio/colourful-spirit-jb-whisky/",
+      "destination": "https://thinkartfully.com/case-studies/colourful-spirit-jb-whisky"
+    },
+    {
+      "source": "/clients-guide-animatics/",
+      "destination": "https://thinkartfully.com/case-studies/clients-guide-animatics"
+    },
+    {
+      "source": "/ciclope-festival-2015/",
+      "destination": "https://thinkartfully.com/case-studies/ciclope-festival-2015"
+    },
+    {
+      "source": "/portfolio/christina-hendricks-for-sheba/",
+      "destination": "https://thinkartfully.com/case-studies/christina-hendricks-for-sheba"
+    },
+    {
+      "source": "/portfolio/chivas-regal-droplets/",
+      "destination": "https://thinkartfully.com/case-studies/chivas-regal-droplets"
+    },
+    {
+      "source": "/character-development/",
+      "destination": "https://thinkartfully.com/case-studies/character-development"
+    },
+    {
+      "source": "/portfolio/cgi-hair-animatic-test/",
+      "destination": "https://thinkartfully.com/case-studies/cgi-hair-animatic-test"
+    },
+    {
+      "source": "/portfolio/cgi-animatics/",
+      "destination": "https://thinkartfully.com/case-studies/cgi-animatics"
+    },
+    {
+      "source": "/portfolio/centre-parcs-forest-is-your-playground/",
+      "destination": "https://thinkartfully.com/case-studies/centre-parcs-forest-is-your-playground"
+    },
+    {
+      "source": "/portfolio/center-parcs-bears/",
+      "destination": "https://thinkartfully.com/case-studies/center-parcs-bears"
+    },
+    {
+      "source": "/celebrating-20-years-foolishness/",
+      "destination": "https://thinkartfully.com/case-studies/celebrating-20-years-foolishness"
+    },
+    {
+      "source": "/portfolio/catastrophe/",
+      "destination": "https://thinkartfully.com/case-studies/catastrophe"
+    },
+    {
+      "source": "/portfolio/campo-viejo-fountain-of-rose/",
+      "destination": "https://thinkartfully.com/case-studies/campo-viejo-fountain-of-rose"
+    },
+    {
+      "source": "/c-word/",
+      "destination": "https://thinkartfully.com/case-studies/c-word"
+    },
+    {
+      "source": "/portfolio/bye-bye-back-cupboard-e/",
+      "destination": "https://thinkartfully.com/case-studies/bye-bye-back-cupboard-e"
+    },
+    {
+      "source": "/portfolio/bulb-animals-of-the-future/",
+      "destination": "https://thinkartfully.com/case-studies/bulb-animals-of-the-future"
+    },
+    {
+      "source": "/bucks-uni-visit/",
+      "destination": "https://thinkartfully.com/case-studies/bucks-uni-visit"
+    },
+    {
+      "source": "/portfolio/bt-sale-key-frames/",
+      "destination": "https://thinkartfully.com/case-studies/bt-sale-key-frames"
+    },
+    {
+      "source": "/portfolio/bt-plus/",
+      "destination": "https://thinkartfully.com/case-studies/bt-plus"
+    },
+    {
+      "source": "/portfolio/bt-black-friday/",
+      "destination": "https://thinkartfully.com/case-studies/bt-black-friday"
+    },
+    {
+      "source": "/british-summertime/",
+      "destination": "https://thinkartfully.com/case-studies/british-summertime"
+    },
+    {
+      "source": "/portfolio/britain-get-talking/",
+      "destination": "https://thinkartfully.com/case-studies/britain-get-talking"
+    },
+    {
+      "source": "/portfolio/bring-the-noise/",
+      "destination": "https://thinkartfully.com/case-studies/bring-the-noise"
+    },
+    {
+      "source": "/portfolio/branston-hit-of-home/",
+      "destination": "https://thinkartfully.com/case-studies/branston-hit-of-home"
+    },
+    {
+      "source": "/portfolio/branston-chutney-mountain/",
+      "destination": "https://thinkartfully.com/case-studies/branston-chutney-mountain"
+    },
+    {
+      "source": "/brand-spanking-new-showreel/",
+      "destination": "https://thinkartfully.com/case-studies/brand-spanking-new-showreel"
+    },
+    {
+      "source": "/case-study/brand-finance-soft-power-summit/",
+      "destination": "https://thinkartfully.com/case-studies/brand-finance-soft-power-summit"
+    },
+    {
+      "source": "/portfolio/bosch-save-water-with-i-dos/",
+      "destination": "https://thinkartfully.com/case-studies/bosch-save-water-with-i-dos"
+    },
+    {
+      "source": "/portfolio/boots-find-your-feel-good-frames/",
+      "destination": "https://thinkartfully.com/case-studies/boots-find-your-feel-good-frames"
+    },
+    {
+      "source": "/portfolio/bombay-sapphire-stir-your-creativity/",
+      "destination": "https://thinkartfully.com/case-studies/bombay-sapphire-stir-your-creativity"
+    },
+    {
+      "source": "/portfolio/bombay-sapphire-discover-the-possibilities-within/",
+      "destination": "https://thinkartfully.com/case-studies/bombay-sapphire-discover-the-possibilities-within"
+    },
+    {
+      "source": "/portfolio/betfred-pitch-visuals/",
+      "destination": "https://thinkartfully.com/case-studies/betfred-pitch-visuals"
+    },
+    {
+      "source": "/bespoke-animatic-services/",
+      "destination": "https://thinkartfully.com/case-studies/bespoke-animatic-services"
+    },
+    {
+      "source": "/behind-three-blind-mices-new-look/",
+      "destination": "https://thinkartfully.com/case-studies/behind-three-blind-mices-new-look"
+    },
+    {
+      "source": "/category/behind-the-scenes/",
+      "destination": "https://thinkartfully.com/case-studies/behind-the-scenes"
+    },
+    {
+      "source": "/portfolio/bakers-2d-animatic/",
+      "destination": "https://thinkartfully.com/case-studies/bakers-2d-animatic"
+    },
+    {
+      "source": "/portfolio/bains-stir-in-some-flavour/",
+      "destination": "https://thinkartfully.com/case-studies/bains-stir-in-some-flavour"
+    },
+    {
+      "source": "/portfolio/avanti-west-coast-lets-get-together/",
+      "destination": "https://thinkartfully.com/case-studies/avanti-west-coast-lets-get-together"
+    },
+    {
+      "source": "/portfolio/avanti-feel-good-travel/",
+      "destination": "https://thinkartfully.com/case-studies/avanti-feel-good-travel"
+    },
+    {
+      "source": "/autumn-is-here/",
+      "destination": "https://thinkartfully.com/case-studies/autumn-is-here"
+    },
+    {
+      "source": "/portfolio/argos-so-stylish-you-can-wear-it/",
+      "destination": "https://thinkartfully.com/case-studies/argos-so-stylish-you-can-wear-it"
+    },
+    {
+      "source": "/portfolio/argos-google-to-create-the-nations-first-fully-functional-smart-boat/",
+      "destination": "https://thinkartfully.com/case-studies/argos-google-to-create-the-nations-first-fully-functional-smart-boat"
+    },
+    {
+      "source": "/portfolio/anti-smoking-shock-concepts/",
+      "destination": "https://thinkartfully.com/case-studies/anti-smoking-shock-concepts"
+    },
+    {
+      "source": "/category/animation/",
+      "destination": "https://thinkartfully.com/case-studies/animation"
+    },
+    {
+      "source": "/case-study/animated-interview-with-scribing-artist-jacob/",
+      "destination": "https://thinkartfully.com/case-studies/animated-interview-with-scribing-artist-jacob"
+    },
+    {
+      "source": "/animals-advertising/",
+      "destination": "https://thinkartfully.com/case-studies/animals-advertising"
+    },
+    {
+      "source": "/portfolio/a-splash-with-british-gas/",
+      "destination": "https://thinkartfully.com/case-studies/a-splash-with-british-gas"
+    },
+    {
+      "source": "/case-study/99-club-launch-call-for-action-on-ethics/",
+      "destination": "https://thinkartfully.com/case-studies/99-club-launch-call-for-action-on-ethics"
+    },
+    {
+      "source": "/portfolio/4737-2/",
+      "destination": "https://thinkartfully.com/case-studies/4737-2"
+    },
+    {
+      "source": "/portfolio/4472-2/",
+      "destination": "https://thinkartfully.com/case-studies/4472-2"
+    },
+    {
+      "source": "/portfolio/4429-2/",
+      "destination": "https://thinkartfully.com/case-studies/4429-2"
+    },
+    {
+      "source": "/portfolio/4330-2/",
+      "destination": "https://thinkartfully.com/case-studies/4330-2"
+    },
+    {
+      "source": "/portfolio/4292-2/",
+      "destination": "https://thinkartfully.com/case-studies/4292-2"
+    },
+    {
+      "source": "/portfolio/4080-2/",
+      "destination": "https://thinkartfully.com/case-studies/4080-2"
+    },
+    {
+      "source": "/portfolio/3965-2/",
+      "destination": "https://thinkartfully.com/case-studies/3965-2"
+    },
+    {
+      "source": "/portfolio/3879-2/",
+      "destination": "https://thinkartfully.com/case-studies/3879-2"
+    },
+    {
+      "source": "/portfolio/3830-2/",
+      "destination": "https://thinkartfully.com/case-studies/3830-2"
+    },
+    {
+      "source": "/portfolio/3748-2/",
+      "destination": "https://thinkartfully.com/case-studies/3748-2"
+    },
+    {
+      "source": "/portfolio/3347-2/",
+      "destination": "https://thinkartfully.com/case-studies/3347-2"
+    },
+    {
+      "source": "/portfolio/3235-2/",
+      "destination": "https://thinkartfully.com/case-studies/3235-2"
+    },
+    {
+      "source": "/portfolio/2786-2/",
+      "destination": "https://thinkartfully.com/case-studies/2786-2"
+    },
+    {
+      "source": "/portfolio/2739-2/",
+      "destination": "https://thinkartfully.com/case-studies/2739-2"
+    },
+    {
+      "source": "/portfolio/2696-2/",
+      "destination": "https://thinkartfully.com/case-studies/2696-2"
+    },
+    {
+      "source": "/%e2%80%8bavoiding-eye-contact/",
+      "destination": "https://thinkartfully.com/case-studies/%e2%80%8bavoiding-eye-contact"
+    },
+    {
+      "source": "/about-us/",
+      "destination": "https://thinkartfully.com/about"
+    },
+    {
+      "source": "/join-the-studio/",
+      "destination": "https://thinkartfully.com/about"
+    },
+
+    { "source": "/artists/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/wp-content/uploads/2015/02/TBM-Artist-Portfolio_A4_WEB_v3.pdf",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/aaron_2/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/andy-2/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/ben-2/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/will-b/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/carl/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/clara-g/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/david-c/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/dave-b/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/painterly/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/traditional/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/hiro/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/ina/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/jacob-w/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/james/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/james-b/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/katie/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/keith-d/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/lee-s/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/linda-c/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/marcus-r-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/mark-2/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/martin-b/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/martin-g/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/miras-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/neil-d-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/neil-t/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/olly-h/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/paul-f-3/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/rich-o-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/rick-f/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/robert-n/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/rupert-s/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/_sandra/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/_saul/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/tom-c/", "destination": "https://thinkartfully.com" },
+    { "source": "/artist/tomek/", "destination": "https://thinkartfully.com" },
+    {
+      "source": "/artist/tony-w-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    {
+      "source": "/artist/victoria-2/",
+      "destination": "https://thinkartfully.com"
+    },
+    { "source": "/artist/yann/", "destination": "https://thinkartfully.com" }
+  ]
 }
