@@ -1243,7 +1243,7 @@
       "source": "/join-the-studio/",
       "destination": "https://thinkartfully.com/about"
     },
-
+    { "source": "/", "destination": "https://thinkartfully.com" },
     { "source": "/artists/", "destination": "https://thinkartfully.com" },
     {
       "source": "/wp-content/uploads/2015/02/TBM-Artist-Portfolio_A4_WEB_v3.pdf",
